@@ -1,6 +1,28 @@
-# BEP20 Token Generator
+---
+component: Home
+title: BEP20 Token Generator | Create BEP20 Token for FREE
+description: Create a BEP20 Token in less than a minute with the new Smart Contract Generator for BEP20 Token. No login. No setup. No coding required.
+meta:
+    - property: twitter:title
+      content: BEP20 Token Generator | Create BEP20 Token for FREE
+    - property: og:title
+      content: BEP20 Token Generator | Create BEP20 Token for FREE
+    - property: twitter:description
+      content: Create a BEP20 Token in less than a minute with the new Smart Contract Generator for BEP20 Token. No login. No setup. No coding required.
+    - property: og:description
+      content: Create a BEP20 Token in less than a minute with the new Smart Contract Generator for BEP20 Token. No login. No setup. No coding required.
+    - property: og:url
+      content: https://nxgro-inc.github.io/bep20-generator/
+---
 
-## DIST ONLY
-This branch contains only the dist files from the [dapp branch](https://github.com/nxgro-inc/bep20-generator/tree/dapp), DO NOT make any changes directly to this branch, instead make your changes on the `dapp` branch and run the deploy script.
+# BEP20 Token Generator - DAPP
 
-To upload a file to this branch use the `.vuepress/public` folder on the `dapp` branch.
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.
+
+## Try it
+
+https://nxgro-inc.github.io/bep20-generator/
+
+## License
+
+Code released under the [MIT License](https://github.com/nxgro-inc/bep20-generator/blob/master/LICENSE).

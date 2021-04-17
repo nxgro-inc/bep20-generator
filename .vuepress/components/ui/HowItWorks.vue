@@ -17,7 +17,7 @@
                     <b-embed
                             type="iframe"
                             aspect="16by9"
-                            src="https://www.youtube.com/embed/0e5oGXIrEIQ"
+                            src="https://www.youtube.com/embed/7HZmFizaTF8"
                             allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
                             allowfullscreen
                     ></b-embed>
